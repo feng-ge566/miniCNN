@@ -1,0 +1,1 @@
+python main_train_my_CNN_int8.py /home/liqiufeng/mini_CNN_cafar/quant_mix_bn/examples/lsq/my_CNN_cifar10.yaml > training_int8.log

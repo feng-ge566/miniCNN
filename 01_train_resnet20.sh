@@ -1,0 +1,1 @@
+python main_train_resnet_20.py /home/liqiufeng/mini_CNN_cafar/quant_mix_bn/examples/lsq/resnet_20.yaml > training_resnet20.log
